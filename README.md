@@ -6,7 +6,7 @@ Installation
 To install the required packages, run the following command:
 pip install -r requirements.txt
 
-Usage: python waybackurls.py -d domain.com
+Usage: python gurls.py -d domain.com or python gurls.py -l filename
 
 To retrieve Wayback Machine URLs for multiple domains from a file, run the following command: python waybackurls.py -l domains.txt
 
