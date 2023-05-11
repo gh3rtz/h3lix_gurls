@@ -8,7 +8,7 @@ This Python script can be used to retrieve URLs from the Wayback Machine for a g
 <p><code>python gurls.py -d domain.com</code></p>
 To retrieve Wayback Machine URLs for multiple domains from a file, use the following command:
 
-<p><code>python waybackurls.py -l domains.txt</code></p>
+<p><code>python gurls.py -l domains.txt</code></p>
 <strong>Additional options include:</strong>
 
 <ul>
